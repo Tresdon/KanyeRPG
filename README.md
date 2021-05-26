@@ -8,4 +8,5 @@ Didn't really know what I was doing when I wrote this lmao
 assets are missing, everything was added in one commit,
 I don't think it even builds (maybe I'll come back to it)
 
-It's fun to see how far I've come
+It's kinda sick though! You can save your game and have an inventory of items.
+it's no magnum opus but it represents progress 
